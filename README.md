@@ -121,18 +121,6 @@ I'm a Systems Engineer who transforms ideas into functional applications by comb
 
 > "I don't just build features—I build systems that solve real problems and create value."
 
----
-
-<div align="center">
-
-##  GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heisenberg17j&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heisenberg17jE&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
 
 <div align="center">
 
